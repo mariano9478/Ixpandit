@@ -36,7 +36,7 @@ Para iniciar el proyecto se debe ejecutar el comando "NPM run serve" en un termi
 
 Cuando ya se inició el proyecto en la web "localhost:8080" se vera la siguiente página:
 
-![login](https://github.com/mariano9478/ensolvers/blob/mainhttps://github.com/mariano9478/Ixpandit/blob/main/src/assets/readme.jpg)
+![login](https://github.com/mariano9478/ixpandit/blob/main/src/assets/readme.jpg)
 
 Lo que nos permite la página es buscar Pokémons usando un input text con auto completado. Una vez que se hace click en el boto "search" aparecerá en la sección "Resultado de la búsqueda" la imagen del Pokémon y su nombre. Cuando se realicen más búsquedas se mostrarán todos los Pokémons anteriormente buscados en la sección "Historial" con un máximo de 10.
 
